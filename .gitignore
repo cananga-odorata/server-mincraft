@@ -1,0 +1,4 @@
+behavior_packs/
+resource_packs/
+*.log
+*.tmp
